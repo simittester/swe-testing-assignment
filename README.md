@@ -67,8 +67,8 @@ pytest
 
 The test suite includes:
 
-- **Unit tests** — verify core calculation logic in isolation.  
-- **Integration tests** — verify interaction between the CLI layer and calculation logic.  
+- **Unit tests** - verify core calculation logic in isolation.  
+- **Integration tests** - verify interaction between the CLI layer and calculation logic.  
 
 ---
 
@@ -90,9 +90,9 @@ Version format:
 
 MAJOR.MINOR.PATCH
 
-- **MAJOR** — incompatible API changes  
-- **MINOR** — new features added  
-- **PATCH** — bug fixes  
+- **MAJOR** - incompatible API changes  
+- **MINOR** - new features added  
+- **PATCH** - bug fixes  
 
 The first stable release is tagged as:
 
